@@ -1,7 +1,9 @@
 # Chatbot for games
 Chatbot to recommand games based on user preferences
 
-User can ask for informations about a game
+User can ask for informations about a game:
+- Tell me about [Game]
+- When was [Game] released
 
 Use these links and launch them : 
 - https://replit.com/@Franciskid/ChatbotFootballProject
